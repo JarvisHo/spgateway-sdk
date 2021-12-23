@@ -1,7 +1,7 @@
 {
-    "name": "asika/spgateway",
+    "name": "jarvisho/spgateway",
     "type": "spgateway-3rd-party-sdk",
-    "description": "The PHP Spgateway package",
+    "description": "The PHP Spgateway package from asika32764",
     "keywords": ["sdk", "spgateway", "payment"],
     "homepage": "https://github.com/asika32764/spgateway",
     "license": "MIT",
